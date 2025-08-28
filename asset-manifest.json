@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/wifiqrcode/static/js/main.4e13ea61.js",
-    "service-worker.js": "/wifiqrcode/service-worker.js",
-    "index.html": "/wifiqrcode/index.html",
-    "main.4e13ea61.js.map": "/wifiqrcode/static/js/main.4e13ea61.js.map"
+    "main.js": "/WiFi_QR_Code_Generator/static/js/main.4e13ea61.js",
+    "service-worker.js": "/WiFi_QR_Code_Generator/service-worker.js",
+    "index.html": "/WiFi_QR_Code_Generator/index.html",
+    "main.4e13ea61.js.map": "/WiFi_QR_Code_Generator/static/js/main.4e13ea61.js.map"
   },
   "entrypoints": [
     "static/js/main.4e13ea61.js"
