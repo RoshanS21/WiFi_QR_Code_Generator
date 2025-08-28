@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/wifiqrcode/static/js/main.4e13ea61.js",
+    "service-worker.js": "/wifiqrcode/service-worker.js",
+    "index.html": "/wifiqrcode/index.html",
+    "main.4e13ea61.js.map": "/wifiqrcode/static/js/main.4e13ea61.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4e13ea61.js"
+  ]
+}
