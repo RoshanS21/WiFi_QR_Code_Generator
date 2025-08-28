@@ -1,6 +1,6 @@
 {
   "name": "wifi-qr-code-generator",
-  "homepage": "https://RoshanS21.github.io/WiFi_QR_Code_Generator",
+  "homepage": "https://roshans21.github.io/WiFi_QR_Code_Generator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
